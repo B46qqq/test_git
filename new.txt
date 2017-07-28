@@ -1,0 +1,17 @@
+commit b7ed7106726f3db9288c5c4cc824e8ca27d89a1e (HEAD -> master)
+Author: b46qqq <b46qqq@hotmail.com>
+Date:   Fri Jul 28 11:04:08 2017 +1000
+
+    example for reset
+
+commit b1833401850e1964aa02ec8243ded1462745179d
+Author: b46qqq <b46qqq@hotmail.com>
+Date:   Fri Jul 28 10:11:18 2017 +1000
+
+    removed 'file_to_delete.txt' in the repo
+
+commit 5f944ef192beebec45924644dc678514d21b06fd
+Author: b46qqq <b46qqq@hotmail.com>
+Date:   Fri Jul 28 10:08:53 2017 +1000
+
+    trial to delete file
