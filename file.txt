@@ -18,3 +18,5 @@ changed --- soft reset example
 new change made...
 
 change occured in "new" branch
+
+2nd change in "new" branch!
