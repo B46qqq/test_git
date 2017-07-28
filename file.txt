@@ -14,3 +14,5 @@ stage differences
 reset to undo commits.
 
 changed --- soft reset example
+
+new change made...
