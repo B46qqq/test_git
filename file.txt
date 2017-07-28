@@ -19,4 +19,8 @@ new change made...
 
 change occured in "new" branch
 
+<<<<<<< HEAD
 change in "master" branch!
+=======
+2nd change in "new" branch!
+>>>>>>> new
