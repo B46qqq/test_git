@@ -12,3 +12,5 @@ change 2
 
 stage differences
 reset to undo commits.
+
+changed --- soft reset example
